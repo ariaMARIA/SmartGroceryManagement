@@ -1,1 +1,1 @@
-# SmartGroceryManagement
+# SmartKitchen
